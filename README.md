@@ -9,6 +9,7 @@ ControlHub is a **SaaS-style admin dashboard** built with **Next.js and Tailwind
 - **Next.js (App Router)**
 - **TypeScript**
 - **Tailwind CSS**
+-  **ESLint**
 
 ---
 
