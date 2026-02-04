@@ -18,8 +18,3 @@ ControlHub is a **SaaS-style admin dashboard** built with **Next.js and Tailwind
 - Practice real-world frontend patterns
 - Focus on code quality, readability, and maintainability
 - Simulate product-level UI and data handling
-
----
-
-## 📂 Project Structure
-
